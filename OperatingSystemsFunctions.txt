@@ -1,0 +1,5 @@
+An operating system it is the software that coordinates and directs all the services and applications used on a computer. 
+These systems are made up of three essential components:
+File system: is the file registry.
+Command Interpretation: translates commands into computer language.
+Core: allows operation in basic computer issues.

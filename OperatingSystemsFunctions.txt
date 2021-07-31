@@ -4,3 +4,4 @@ File system: is the file registry.
 Command Interpretation: translates commands into computer language.
 Core: allows operation in basic computer issues.
 For example the main components of the Android operating system Applications: The base applications include an email client, SMS program, calendar, maps, browser, contacts and others.
+In addition, macOS is an another operating system designed by Apple that is installed on all computers created by the Apple company. It is known for having been the first system designed at the general public to have a graphical interface composed of the interaction of the mouse with windows, icon and menus.
